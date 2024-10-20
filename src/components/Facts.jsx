@@ -35,17 +35,6 @@ function Facts({ isDarkMode }) {
             </ul>
         </main>
     )
-
-
-
-
-
-
-// Hooks: Permiten usar estado y efectos sin clases (useState, useEffect).
-
-// Context API: Comparte datos globalmente sin pasar props manualmente.
-
-// React Router: Gestiona la navegación en aplicaciones de una sola página (SPA).
 }
 
 export default Facts
